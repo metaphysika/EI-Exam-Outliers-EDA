@@ -48,7 +48,7 @@ I had some similar cleaning to do with the accession and OpenREM Link columns, a
 
 The analysis was comprehensive, with meticulous attention to detail in cleaning the data, calculating z-scores, and visualizing the data to pinpoint the anomalies.
 
-I first looked at the top 10 outliers. I saw there were a few very high EI/z-score values that didn't seem realistic. I looked up the exam in PACS to find out they were service images from testing equipment. I dropped those values and continued with the analysis.
+I first looked at the top 10 outliers. I saw there were a few very high EI/z-score values that didn't seem realistic. I looked up the exams in PACS to find out they were service images from testing equipment. I dropped those values and continued with the analysis.
 
 I then looked at how many items fell outside a z-score of 3. I found 26 that did so and wrote these out to an excel sheet to follow up with individually. 
 
