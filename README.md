@@ -4,7 +4,7 @@ Exploratory Data Analysis with high dose outlier radiological exams data
 
 [Link](https://pixelhero.com/exposure-index-outliers/) to blog post about case.
 
-NOTE: I am not uploading the actual data or jupyter notebook for protected patient data concerns.
+NOTE: I am not uploading the actual data or jupyter notebook for protected patient data concerns. This is meant to be a demonstration of the type of EDA I do in my role as an Associate Medical Physicst.
 
 # Problem
 
