@@ -54,7 +54,7 @@ I then looked at how many items fell outside a z-score of 3. I found 26 that did
 
 ![7](https://github.com/metaphysika/EI-Exam-Outliers-EDA/blob/main/images/7.png)
 
-Lastly, I created some charts of the exams that had a z-score of range 1-2 and 2-3. These are also high exams that I wanted to identify any larger patterns for to see if there was room for improvement at specific imaging sites.
+Lastly, I created some charts of the exams that had a z-score of range 1-2 and 2-3. These are also high EI exams that I wanted to identify any larger patterns for to see if there was room for improvement at specific imaging sites.
 
 ![8](https://github.com/metaphysika/EI-Exam-Outliers-EDA/blob/main/images/8.png)
 
